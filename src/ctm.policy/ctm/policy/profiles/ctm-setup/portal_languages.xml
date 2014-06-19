@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<object>
+ <default_language value="es"/>
+ <use_cookie_negotiation value="False"/>
+ <use_request_negotiation value="True"/>
+ <supported_langs>
+  <element value="en"/>
+  <element value="ca"/>
+ </supported_langs>
+</object>

@@ -1,0 +1,7 @@
+<registry>
+
+  <!-- dropdown level -->
+  <record name="quintagroup.dropdownmenu.interfaces.IDropDownMenuSettings.content_tabs_level" interface="quintagroup.dropdownmenu.interfaces.IDropDownMenuSettings" field="content_tabs_level">
+    <value>2</value>
+  </record>
+</registry>

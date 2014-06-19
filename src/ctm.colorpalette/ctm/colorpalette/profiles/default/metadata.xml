@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1400</version>
+  <dependencies>
+    <dependency>profile-collective.z3cform.colorpicker:default</dependency>
+  </dependencies>
+</metadata>

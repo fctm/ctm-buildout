@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<object name="portal_properties" meta_type="Plone Properties Tool">
+  <object name="site_properties" meta_type="Plone Property Sheet">
+    <property name="title">Site wide properties</property>
+    <property name="allowAnonymousViewAbout" type="boolean">False</property>
+    <property name="default_language" type="string">en</property>
+    <property name="default_charset" type="string">utf-8</property>
+    <property name="default_editor" type="string">TinyMCE</property>
+    <property name="allowRolesToAddKeywords" type="lines">
+      <element value="Manager"/>
+      <element value="Site Administrator"/>
+      <element value="Reviewer"/>
+    </property>
+    <property name="default_page" type="lines">
+      <element value="index_html"/>
+      <element value="index.html"/>
+      <element value="index.htm"/>
+      <element value="FrontPage"/>
+    </property>
+    <property name="visible_ids" type="boolean">False</property>
+    <property name="verify_login_name" type="boolean">True</property>
+    <property name="enable_sitemap" type="boolean">False</property>
+    <property name="enable_inline_editing" type="boolean">False</property>
+    <property name="lock_on_ttw_edit" type="boolean">True</property>
+    <property name="external_links_open_new_window"
+	      type="string">false</property>
+    <property name="icon_visibility" type="string">enabled</property>
+    <property name="use_email_as_login" type="boolean">False</property>
+  </object>
+</object>

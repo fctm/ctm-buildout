@@ -1,0 +1,3 @@
+<object name="portal_types">
+  <object name="ctm.ColorSettings" meta_type="Dexterity FTI" remove="True"/>
+</object>

@@ -1,0 +1,135 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-07-22 17:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: ctm.colorpalette\n"
+
+#: ./../colorsettings.py:96
+msgid "A height between 100 and 120 px is required."
+msgstr ""
+
+#: ./../colorsettings.py:103
+msgid "An image of 16x16 px is required."
+msgstr ""
+
+#: ./../colorsettings.py:67
+msgid "Apply the color defined below"
+msgstr ""
+
+#: ./../colorsettings.py:66
+msgid "Automatically apply a color from the site palette (recommended)"
+msgstr ""
+
+#: ./../colorsettings.py:58
+msgid "Background image height must be between 110px and 120px."
+msgstr ""
+
+#: ./../colorsettings.py:165
+msgid "Choose the footer background coloring policy"
+msgstr ""
+
+#: ./../colorsettings.py:131
+msgid "Choose the portlets background coloring policy"
+msgstr ""
+
+#: ./../profiles/default/types/ctm.ColorSettings.xml
+msgid "Color and logo configuration panel"
+msgstr ""
+
+#: ./../colorsettings.py:38
+msgid "Color too light. Please choose a darker one."
+msgstr ""
+
+#: ./../profiles/default/types/ctm.ColorSettings.xml
+msgid "ColorSettings"
+msgstr ""
+
+#: ./../colorsettings.py:153
+msgid "Content of the site footer."
+msgstr ""
+
+#: ./../colorsettings.py:102
+msgid "Favicon image"
+msgstr ""
+
+#: ./../colorsettings.py:52
+msgid "Favicon size must be 16x16 px."
+msgstr ""
+
+#: ./../colorsettings.py:160
+msgid "Footer background color"
+msgstr ""
+
+#: ./../colorsettings.py:147
+msgid "Footer content"
+msgstr ""
+
+#: ./../colorsettings.py:152
+msgid "Footer text"
+msgstr ""
+
+#: ./../colorsettings.py:95
+msgid "Header background image"
+msgstr ""
+
+#: ./../colorsettings.py:68
+msgid "Leave it uncolored"
+msgstr ""
+
+#: ./../colorsettings.py:44
+msgid "Logo height must be in the 55px to 65px range."
+msgstr ""
+
+#: ./../colorsettings.py:88
+msgid "Logo of the project"
+msgstr ""
+
+#: ./../colorsettings.py:46
+msgid "Logo width must be in the 45px to 450px range."
+msgstr ""
+
+#: ./../colorsettings.py:110
+msgid "Main color"
+msgstr ""
+
+#: ./../colorsettings.py:116
+msgid "Main color of the site"
+msgstr ""
+
+#: ./../colorsettings.py:126
+msgid "Portlets background color"
+msgstr ""
+
+#: ./../colorsettings.py:83
+msgid "Site images"
+msgstr ""
+
+#: ./../colorsettings.py:117
+msgid "The site will be globally themed with the selected color."
+msgstr ""
+
+#: ./../colorsettings.py:140
+msgid "This color will be applied according to the policy selected before."
+msgstr ""
+
+#: ./../colorsettings.py:89
+msgid "Width must be between 45 and 450 px. Height must be between 55 and 65 px. A transparent backgrounded image is recommended."
+msgstr ""
+
+#: ./../colorsettings.py:29
+msgid "You cannot choose a transparent color."
+msgstr ""
+

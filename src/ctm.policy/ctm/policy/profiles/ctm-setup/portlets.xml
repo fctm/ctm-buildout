@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<portlets>
+  <assignment manager="plone.rightcolumn" 
+	      category="context" 
+	      key="/"
+	      type="portlets.Calendar" 
+	      name="calendar" 
+	      />
+
+  <assignment name="news" 
+	      category="context" 
+	      key="/"
+	      manager="plone.rightcolumn" 
+	      type="portlets.News" 
+	      visible="1"
+	      />
+
+  <assignment name="login" 
+	      category="context" 
+	      key="/"
+	      manager="plone.rightcolumn" 
+	      type="portlets.Login" 
+	      visible="1"
+	      />
+</portlets>

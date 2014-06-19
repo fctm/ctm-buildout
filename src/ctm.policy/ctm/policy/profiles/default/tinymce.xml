@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<object>
+ <toolbar>
+   <toolbar_undo value="True"/>
+   <toolbar_backcolor value="True"/>
+   <toolbar_media value="True"/>
+</toolbar>
+
+</object>

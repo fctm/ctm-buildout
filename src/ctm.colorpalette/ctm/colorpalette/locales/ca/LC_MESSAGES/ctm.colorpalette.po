@@ -1,0 +1,147 @@
+# #############################################################################
+# 
+# Copyright (c) 2003-2004 Zope Foundation and Contributors.
+# All Rights Reserved.
+# 
+# This software is subject to the provisions of the Zope Public License,
+# Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
+# THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
+# WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+# WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
+# FOR A PARTICULAR PURPOSE.
+# 
+# #############################################################################
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2013-07-22 17:34+0000\n"
+"PO-Revision-Date: 2013-07-10 23:42+0200\n"
+"Last-Translator: ferran <llamas.arroniz@gmail.com>\n"
+"Language-Team: Catalan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: ctm.colorpalette\n"
+"Generated-By: zope/app/locales/extract.py\n"
+"Language: ca\n"
+
+#: ./../colorsettings.py:96
+msgid "A height between 100 and 120 px is required."
+msgstr "Cal una alçada d'entre 100 i 120 px."
+
+#: ./../colorsettings.py:103
+msgid "An image of 16x16 px is required."
+msgstr "Cal una imatge de 16x16 px."
+
+#: ./../colorsettings.py:67
+msgid "Apply the color defined below"
+msgstr "Aplica el color definit a continuació"
+
+#: ./../colorsettings.py:66
+msgid "Automatically apply a color from the site palette (recommended)"
+msgstr "Aplica automàticament un color de la paleta del portal (recomenat)"
+
+#: ./../colorsettings.py:58
+msgid "Background image height must be between 110px and 120px."
+msgstr "L'alçada de la imatge de fons cal que vagi de 110 a 120 px."
+
+#: ./../colorsettings.py:165
+msgid "Choose the footer background coloring policy"
+msgstr "Política d'acolorit del fons del peu del portal."
+
+#: ./../colorsettings.py:131
+msgid "Choose the portlets background coloring policy"
+msgstr "Política d'acolorit del fons dels portlets."
+
+#: ./../profiles/default/types/ctm.ColorSettings.xml
+msgid "Color and logo configuration panel"
+msgstr "Panell de configuració del tema CTM"
+
+#: ./../colorsettings.py:38
+msgid "Color too light. Please choose a darker one."
+msgstr "Color massa clar. Si us plau trieu-ne un de més fosc."
+
+#: ./../profiles/default/types/ctm.ColorSettings.xml
+msgid "ColorSettings"
+msgstr "Configuració tema CTM"
+
+#: ./../colorsettings.py:153
+msgid "Content of the site footer."
+msgstr "Contingut del peu del portal."
+
+#: ./../colorsettings.py:102
+msgid "Favicon image"
+msgstr "Imatge de favicon"
+
+#: ./../colorsettings.py:52
+msgid "Favicon size must be 16x16 px."
+msgstr "La mida del favicon cal que sigui de 16x16px."
+
+#: ./../colorsettings.py:160
+msgid "Footer background color"
+msgstr "Color de fons del peu"
+
+#: ./../colorsettings.py:147
+msgid "Footer content"
+msgstr "Contingut del peu"
+
+#: ./../colorsettings.py:152
+msgid "Footer text"
+msgstr "Text del peu del portal"
+
+#: ./../colorsettings.py:95
+msgid "Header background image"
+msgstr "Imatge de fons de la capçalera"
+
+#: ./../colorsettings.py:68
+msgid "Leave it uncolored"
+msgstr "Roman sense color"
+
+#: ./../colorsettings.py:44
+msgid "Logo height must be in the 55px to 65px range."
+msgstr "L'alçada del logo ha d'estar entre 55 i 65 px."
+
+#: ./../colorsettings.py:88
+msgid "Logo of the project"
+msgstr "Logo del projecte"
+
+#: ./../colorsettings.py:46
+msgid "Logo width must be in the 45px to 450px range."
+msgstr "L'ample del logo ha d'anar de 45 a 450 px."
+
+#: ./../colorsettings.py:110
+msgid "Main color"
+msgstr "Color principal"
+
+#: ./../colorsettings.py:116
+msgid "Main color of the site"
+msgstr "Color principal del portal"
+
+#: ./../colorsettings.py:126
+msgid "Portlets background color"
+msgstr "Color de fons dels portlets"
+
+#: ./../colorsettings.py:83
+msgid "Site images"
+msgstr "Imatges del portal"
+
+#: ./../colorsettings.py:117
+msgid "The site will be globally themed with the selected color."
+msgstr "El color escollit determinarà la tonalitat general del portal."
+
+#: ./../colorsettings.py:140
+msgid "This color will be applied according to the policy selected before."
+msgstr "Aquest color s'aplicarà d'acord amb la política triada abans."
+
+#: ./../colorsettings.py:89
+msgid "Width must be between 45 and 450 px. Height must be between 55 and 65 px. A transparent backgrounded image is recommended."
+msgstr "L'amplada ha de ser entre 45 i 450 px. L'alçada entre 55 i 65 px. Es recomana una imatge de fons transparent."
+
+#: ./../colorsettings.py:29
+msgid "You cannot choose a transparent color."
+msgstr "No podeu triar un color transparent."
+

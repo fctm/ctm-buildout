@@ -1,0 +1,6 @@
+<rolemap>
+  <permissions>
+    <permission name="Ctm: Add a ColorSettings" acquire="False" purge="True">
+    </permission>
+  </permissions>
+</rolemap>
