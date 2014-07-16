@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1000</version>
+  <dependencies>
+    <dependency>profile-plonetheme.onegov:default</dependency>
+    <dependency>profile-collective.googleanalytics:default</dependency>
+    <dependency>profile-collective.hootsuite:default</dependency>
+    <dependency>profile-ftw.footer:default</dependency>
+    <dependency>profile-jarn.jsi18n:default</dependency>
+    <dependency>profile-plone.app.contenttypes:default</dependency>
+    <dependency>profile-Solgema.fullcalendar:default</dependency>
+    <dependency>profile-Products.PloneFormGen:default</dependency>
+    <dependency>profile-plone.app.widgets:default</dependency>
+    <dependency>profile-wildcard.foldercontents:default</dependency>
+  </dependencies>
+</metadata>
