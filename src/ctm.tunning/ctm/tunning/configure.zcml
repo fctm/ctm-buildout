@@ -4,6 +4,7 @@
     xmlns:five="http://namespaces.zope.org/five"
     xmlns:i18n="http://namespaces.zope.org/i18n"
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    xmlns:theme="http://namespaces.zope.org/plonetheme.onegov"
     i18n_domain="ctm.tunning">
   
   <!-- Include configuration for dependencies listed in setup.py -->
@@ -19,5 +20,9 @@
 
 
   <!-- -*- extra stuff goes here -*- -->
+
+  <include package="plonetheme.onegov" />
+  <theme:add_scss path="resources/custom.scss" />
+
 
 </configure>
