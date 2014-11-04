@@ -11,12 +11,12 @@
 
     <browser:resource
         name="plone.app.widgets.js"
-        file="static/widgets.min.js"
+        file="resources/widgets.min.js"
         layer="plone.app.widgets.interfaces.IWidgetsLayer"
         />
     <browser:resource
         name="plone.app.widgets.css"
-        file="static/widgets.min.css"
+        file="resources/widgets.min.css"
         layer="plone.app.widgets.interfaces.IWidgetsLayer"
         />
 
