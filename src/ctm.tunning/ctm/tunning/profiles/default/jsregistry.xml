@@ -5,7 +5,11 @@
     compression="safe" conditionalcomment="" cookable="True" enabled="False"
     expression="" id="++resource++ftw.slider/slick.min.js" inline="False"/>
  <javascript authenticated="False" bundle="default" cacheable="True"
-    compression="safe" conditionalcomment="" cookable="True" enabled="False"
+    compression="safe" conditionalcomment="" cookable="True" enabled="True"
+    expression="" id="++resource++ctm.slider.slick.min.js" inline="False"
+    insert-before="++resource++ftw.slider/slider.js"/>
+ <javascript authenticated="False" bundle="default" cacheable="True"
+    compression="safe" conditionalcomment="" cookable="True" enabled="True"
     expression="" id="++resource++ftw.slider/slider.js" inline="False"/>
 
 </object>

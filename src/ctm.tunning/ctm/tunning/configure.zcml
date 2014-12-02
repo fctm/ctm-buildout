@@ -3,6 +3,7 @@
     xmlns="http://namespaces.zope.org/zope"
     xmlns:five="http://namespaces.zope.org/five"
     xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:browser="http://namespaces.zope.org/browser"
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
     xmlns:theme="http://namespaces.zope.org/plonetheme.onegov"
     i18n_domain="ctm.tunning">
@@ -24,5 +25,9 @@
   <include package="plonetheme.onegov" />
   <theme:add_scss path="resources/custom.scss" />
 
+  <browser:resource
+      name="ctm.slider.slick.min.js"
+      file="resources/slick.min.js"
+      />
 
 </configure>
