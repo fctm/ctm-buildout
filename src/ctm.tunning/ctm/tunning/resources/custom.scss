@@ -1,8 +1,32 @@
+/* logo bigger */
 #portal-logo {
     margin: 0.5em;
-    height: 65px;
+  height: 85px;
 }
 
 #page-wrapper {
     background-color: #fff;
+}
+
+/* portal languages selector */
+#portal-languageselector-wrapper {
+  margin-top: 0.55em;
+}
+#portal-languageselector ul {
+  padding: 0.25em 0.5em;
+}
+#portal-languageselector ul a:after {
+  font-size: 10px;
+}
+#portal-languageselector li {
+  display: inline;
+  right: -1px;
+  padding: 1px;
+}
+#portal-languageselector li a:hover {
+  background-color: $lightgray;
+  color: $link-color-hover;
+}
+.currentLanguage {
+font-weight: bold;
 }

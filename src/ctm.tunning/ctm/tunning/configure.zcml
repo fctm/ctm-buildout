@@ -21,6 +21,11 @@
 
 
   <!-- -*- extra stuff goes here -*- -->
+  
+  <!-- -*- retocs css onegov -*- -->
+  <include package="plonetheme.onegov" />
+  <theme:add_scss path="resources/custom.scss" />
+
 
   <include package="plonetheme.onegov" />
   <theme:add_scss path="resources/custom.scss" />
