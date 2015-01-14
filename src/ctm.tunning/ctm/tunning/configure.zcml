@@ -26,10 +26,6 @@
   <include package="plonetheme.onegov" />
   <theme:add_scss path="resources/custom.scss" />
 
-
-  <include package="plonetheme.onegov" />
-  <theme:add_scss path="resources/custom.scss" />
-
   <browser:resource
       name="ctm.slider.slick.min.js"
       file="resources/slick.min.js"
