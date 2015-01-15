@@ -10,7 +10,9 @@
 
 /* portal languages selector */
 #portal-languageselector-wrapper {
-  margin-top: 0.55em;
+  position: absolute;
+  right: 0;
+  top: 3.3em;
 }
 #portal-languageselector ul {
   padding: 0.25em 0.5em;
